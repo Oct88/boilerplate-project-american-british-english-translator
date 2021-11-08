@@ -1,3 +1,6 @@
+// key - American
+// value - British
+
 module.exports = {
   'mr.': 'mr',
   'mrs.': 'mrs',
