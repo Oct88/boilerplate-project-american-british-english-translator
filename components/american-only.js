@@ -1,3 +1,6 @@
+// key - American
+// value - British
+
 module.exports = {
   "acclimate": "acclimatise",
   "acetaminophen": "paracetamol",
@@ -127,6 +130,8 @@ module.exports = {
   "rowhouse": "terraced house",
   "rube goldberg device": "Heath Robinson device",
   "rube goldberg machine": "Heath Robinson device",
+  "Rube Goldberg machine": "Heath Robinson device",
+  "Rube Goldberg device": "Heath Robinson device",
   "rugola": "rocket",
   "rutabaga": "swede",
   "rv": "caravan",
